@@ -1,5 +1,5 @@
 {
-  "name": "Task-management-app-backend",
+  "name": "task-management-app-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,6 @@
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
     "mongoose": "^6.5.5",
-    "nodemon": "^2.0.19"
+    "nodemon": "^3.0.2"
   }
 }
