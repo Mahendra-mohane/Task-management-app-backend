@@ -1,4 +1,5 @@
-
+import mongoose from 'mongoose' ;
+mongoose.set('strictQuery', false);
 import express from 'express';// Importing the 'express' library for building the web server
 import cors from 'cors';// Importing 'cors' for enabling Cross-Origin Resource Sharing
 import bodyParser from 'body-parser';//Importing 'body-parser' for parsing incoming request bodies
